@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+}
+li:hover{
+    color: rgb(144, 195, 249);
+    cursor: pointer;
+}
+.navbar{
+    background: rgb(7, 26, 67);
+}
